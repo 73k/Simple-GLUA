@@ -7,7 +7,7 @@ if (file.Exists("autorun/client/cl_qac.lua", "LUA") == true or file.Exists("auto
 print("We found Quack Anti Cheat (QAC), be careful")
 end
 if file.Exists( "autorun/server/anti-bhop.lua", "LUA" ) == true then
-print("We found c0nw0nks Anticheat, a 2 year old cheat")
+print("We found c0nw0nks Anticheat, a 2 year old anti-cheat")
 end
 if file.Exists( "cl_HAC.lua", "LUA" ) == true or file.Exists( "autorun/server/sv_HAC.lua", "LUA" ) == true then
 print("We found Hex's Antichat, which is also a 2 year old ac")
